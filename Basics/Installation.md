@@ -1,7 +1,10 @@
-How to install python
+### Hello there we are Matt and Elvis
 
+## This will be how to install python, pip libraries and a virtual environment
 
-Step 1:
+<br />
+
+### Step 1:
     *Install visual studio if you haven't aready at the link provided: https://code.visualstudio.com/download
     *You can install the extension by typing in python it should be the first item on the. Image below to help:
 
